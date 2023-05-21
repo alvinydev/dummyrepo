@@ -22,6 +22,6 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 ## Contact
 
-For any questions or suggestions related to this project, you can reach out to the project maintainer at [email@example.com](mailto:email@example.com).
+For any questions or suggestions related to this project, you can reach out to the project maintainer at [alvin@example.com](mailto:alvin@example.com).
 
 Let's explore the fascinating world of rocket science together and reach for the stars!
